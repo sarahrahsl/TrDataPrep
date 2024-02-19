@@ -1,0 +1,1 @@
+from Functions.fcoloring import *
